@@ -21,3 +21,5 @@ class Car:
        return self.__dict__
     
 print("Bu faylda ish tugadi !!!")
+
+print("Davomi bor")
